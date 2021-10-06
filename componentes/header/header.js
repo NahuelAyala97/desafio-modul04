@@ -9,16 +9,16 @@ function appendHeader(el) {
   </button>
   <nav class="header__nav">
     <button class="header__button-close-hamburger">
-      <img src="/componentes/header/vector-button.png" alt="" />
+      <img src="./componentes/header/vector-button.png" alt="" />
     </button>
     <div class="header__nav-content">
-      <a class="header__nav-content-link title" href="/portfolio/portfolio.html"
+      <a class="header__nav-content-link title" href="./portfolio/portfolio.html"
         >Portfolio
       </a>
-      <a class="header__nav-content-link title" href="/servicios/servicios.html"
+      <a class="header__nav-content-link title" href="./servicios/servicios.html"
         >Servicios
       </a>
-      <a class="header__nav-content-link title" href="/contacto/contacto.html"
+      <a class="header__nav-content-link title" href="./contacto/contacto.html"
         >Contacto
       </a>
     </div>
