@@ -1,0 +1,52 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+.contacto {
+  background-color: #000000;
+  height: 100vh;
+}
+
+@media (min-width: 960px) {
+  .contacto {
+    background: linear-gradient(
+      107.17deg,
+      #408195 29.35%,
+      rgba(0, 210, 135, 0.8) 78.73%
+    );
+    height: auto;
+    overflow: auto;
+  }
+}
+
+.contacto__content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 190px;
+}
+
+@media (min-width: 960px) {
+  .contacto__content {
+    flex-direction: row;
+    margin-bottom: 178px;
+    margin-top: 94px;
+  }
+}
+
+.contacto__title {
+  color: #ffffff;
+  margin-bottom: 72px;
+}
+
+@media (min-width: 960px) {
+  .contacto__title {
+    align-self: start;
+    margin: 0 70px;
+  }
+}
