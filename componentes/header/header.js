@@ -12,13 +12,13 @@ function appendHeader(el) {
       <img src="./componentes/header/vector-button.png" alt="" />
     </button>
     <div class="header__nav-content">
-      <a class="header__nav-content-link title" href="./portfolio/portfolio.html"
+      <a class="header__nav-content-link title" href="./portfolio.html"
         >Portfolio
       </a>
-      <a class="header__nav-content-link title" href="./servicios/servicios.html"
+      <a class="header__nav-content-link title" href="./servicios.html"
         >Servicios
       </a>
-      <a class="header__nav-content-link title" href="./contacto/contacto.html"
+      <a class="header__nav-content-link title" href="./contacto.html"
         >Contacto
       </a>
     </div>
