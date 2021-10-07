@@ -15,7 +15,7 @@ p {
 }
 
 .welcome {
-  background: url("./componentes/images/background-welcome.png") no-repeat
+  background: url("../componentes/images/background-welcome.png") no-repeat
     center center/cover;
   height: 616px;
 }
